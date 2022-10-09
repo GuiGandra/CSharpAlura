@@ -1,0 +1,15 @@
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.exe
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.deps.json
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\refint\P10-CalculaPoupanca.dll
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.genruntimeconfig.cache
+C:\Users\gui_h\OneDrive\Área de Trabalho\C# - Explorando a liguagem\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\net6.0\ref\P10-CalculaPoupanca.dll

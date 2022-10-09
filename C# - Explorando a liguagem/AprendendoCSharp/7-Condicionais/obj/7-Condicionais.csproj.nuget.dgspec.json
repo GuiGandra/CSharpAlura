@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gui_h\\OneDrive\\Área de Trabalho\\CSharpAlura\\C# - Explorando a liguagem\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gui_h\\OneDrive\\Área de Trabalho\\CSharpAlura\\C# - Explorando a liguagem\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gui_h\\OneDrive\\Área de Trabalho\\CSharpAlura\\C# - Explorando a liguagem\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+        "projectName": "7-Condicionais",
+        "projectPath": "C:\\Users\\gui_h\\OneDrive\\Área de Trabalho\\CSharpAlura\\C# - Explorando a liguagem\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+        "packagesPath": "C:\\Users\\gui_h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gui_h\\OneDrive\\Área de Trabalho\\CSharpAlura\\C# - Explorando a liguagem\\AprendendoCSharp\\7-Condicionais\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gui_h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/leandro0227/48d5ef79-5952-4ab8-ab4a-cad9a27bbb6c/_packaging/PremiumAdsCore/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
